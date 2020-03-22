@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/salomaosnff/easy-color-parser.svg?branch=master)](https://travis-ci.org/salomaosnff/easy-color-parser)
 [![downloads](https://img.shields.io/npm/dm/easy-color.svg)](https://www.npmjs.com/package/easy-color)
 ---
-Fork of [Adrian's](https://github.com/cerbaroadrian) [project](https://cerbaroadrian.github.io/easy-color-parser)
+Fork of [Adrian's](https://github.com/adrianbrs) [project](https://adrianbrs.github.io/easy-color-parser)
 
 ---
 
@@ -120,6 +120,6 @@ var key = cmyk.k;
 ```
 
 ## Links
-- [Easy Color for browser](https://cerbaroadrian.github.io/easy-color-parser)
+- [Easy Color for browser](https://adrianbrs.github.io/easy-color-parser)
 - [Send a Pull Request](https://github.com/salomaosnff/easy-color-parser/pulls)
 - [My Github](https://gitbuh.com/salomaosnff)
